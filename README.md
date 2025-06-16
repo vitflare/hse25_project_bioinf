@@ -9,12 +9,16 @@
 
 ## Тетрадки
 [Квадруплексы](https://colab.research.google.com/drive/1Vd1LOkmg95w8h1Gf-thhmagjNpewlMSM?usp=sharing)
+
 [ZHUNT](https://colab.research.google.com/drive/1rQ2zBcykzhPBEmE0iqSm9GCddhwjyXpG?usp=sharing)
+
 [ZDNABERT](https://colab.research.google.com/drive/1a2f4RNUstBox1DSNY7Yduy12ubPIgPgZ?usp=sharing)
+
 [HMMer](https://colab.research.google.com/drive/1KSRW_znB0X2kUDQyzjH2Vclb0nbTDepC?usp=sharing)
 
 
-## Табличка
+## Таблички
+
 |Проверяемое семейство|Название гена|
 |:------:|:--:|
 |Chromo | EIN_094130 | 
@@ -28,9 +32,6 @@
 |Acetyltransf_1| EIN_095120|
 |Pkinase | EIN_175500|
 |HAT | crooked neck protein|
-
-
-## Таблички
 
 Фон:
 
